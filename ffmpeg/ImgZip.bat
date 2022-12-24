@@ -1,0 +1,1 @@
+for %%x in (%*) do ffmpeg -i %%x %%x -y
